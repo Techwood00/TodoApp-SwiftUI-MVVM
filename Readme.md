@@ -5,7 +5,7 @@ Todoist is a minimalist To-Do List app that combines motivation with focus to he
 <div align="center">
    <p align="center">
     <img src="Screenshots/1.png" alt="Screenshot 1"  width="30%" style="margin: 0.5%;">
-    <img src"Screenshots/2.png" alt="Screenshot 2" width="30%" style="margin: 0.5%;">
+    <img src="Screenshots/2.png" alt="Screenshot 2" width="30%" style="margin: 0.5%;">
     <img src="Screenshots/3.png" alt="Screenshot 3"  width="30%" style="margin: 0.5%;">
     <img src="Screenshots/4.png" alt="Screenshot 4"  width="30%" style="margin: 0.5%;">
    </p>
